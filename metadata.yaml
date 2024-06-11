@@ -1,0 +1,29 @@
+_repo: The-gray-wolf-s-daughter_73734
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Warden, Gertrude
+    birthdate: 1859
+    deathdate: 1925
+    gutenberg_agent_id: '55805'
+    url: http://www.gutenberg.org/2009/agents/55805
+    wikipedia: https://en.wikipedia.org/wiki/Gertrude_Warden
+description: ''
+gutenberg_issued: '2024-05-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73734'
+language: en
+pgterms:marc904: https://books.google.com/books?id=uSMXAAAAYAAJ
+pgterms:marc905: 20240525092813warden
+pgterms:marc906: '1894'
+pgterms:marc907: US
+production_note: an anonymous Project Gutenberg volunteer
+publication_note: '  $aNew York :$bThe Federal Book Company, $c1894.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The gray wolf's daughter
+url: http://www.gutenberg.org/ebooks/73734
